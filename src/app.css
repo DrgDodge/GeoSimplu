@@ -3,8 +3,9 @@
 @tailwind utilities;
 
 a {
-    transition: opacity 0.3s ease;
+    transition: all 0.3s ease-out;
 }
+
 
 @keyframes fadeIn {
     from {
@@ -13,10 +14,6 @@ a {
     to {
         opacity: 1;
     }
-}
-
-.fade-in {
-    animation: fadeIn 1s ease forwards;
 }
 
 body { 
@@ -30,3 +27,17 @@ body {
         -1px 1px 0 black,
         1px 1px 0 black;
 }
+
+.active {
+    font-weight: bold;
+    color: #1e3a8a; /* Example text color for active links */
+    background-color: rgba(255, 255, 255, 0.3); /* Light background color for contrast */
+    padding: 0.5rem 1rem; /* Adjust padding for the rounded box */
+    border-radius: 1rem; /* Makes the box rounded */
+    transition: all 0.3s ease-in-out; /* Smooth transition when active */
+}
+
+
+
+
+

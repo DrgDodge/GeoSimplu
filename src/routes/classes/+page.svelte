@@ -1,4 +1,4 @@
-<div class="flex items-center justify-center p-5 -mt-20">
+<div class="flex items-center justify-center p-5 -mt-20 fade-in">
     <div class="text-center">
     </div>
 </div>

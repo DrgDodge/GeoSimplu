@@ -37,6 +37,9 @@ body {
     transition: all 0.3s ease-in-out; /* Smooth transition when active */
 }
 
+.fade-in {
+    animation: fadeIn 1s ease forwards;
+}
 
 
 

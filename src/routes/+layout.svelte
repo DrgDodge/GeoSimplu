@@ -25,7 +25,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=0.7">
 
 
-<div class="bg-cover bg-center h-screen bg-[url('/images/bkuc.webp')]">
+<div class="bg-cover bg-center h-dvh bg-[url('/images/bkuc.webp')]">
     <nav class="absolute top-10 left-1/2 transform -translate-x-1/2 backdrop-blur-sm bg-white/30 text-2xl text-white font-bold flex rounded-2xl z-10 p-3">
         
         <ul class="flex space-x-10">

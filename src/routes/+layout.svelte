@@ -26,7 +26,7 @@
 
 
 <div class="bg-cover bg-center h-screen bg-[url('/images/bkuc.webp')]">
-    <nav class="absolute top-10 left-1/2 transform -translate-x-1/2 backdrop-blur-sm bg-white/30 text-3xl text-white font-bold flex rounded-3xl z-10 p-3">
+    <nav class="absolute top-10 left-1/2 transform -translate-x-1/2 backdrop-blur-sm bg-white/30 text-2xl text-white font-bold flex rounded-2xl z-10 p-3">
         
         <ul class="flex space-x-10">
             <li>
@@ -62,11 +62,14 @@
         </ul>
     </nav>
 
-    <div>  </div>
-    <div>  </div>
-    <div>  </div>
-    <div>  </div>
-    <div>  </div>
+    <div class="opacity-0">.</div>
+    <div class="opacity-0">.</div>
+    <div class="opacity-0">.</div>
+    <div class="opacity-0">.</div>
+    <div class="opacity-0">.</div>
+
+
+
 
     <div class="pt-28 pb-20">
         <slot />
@@ -75,7 +78,8 @@
 
 
 
-<footer class="fixed bottom-4 left-1/2 transform -translate-x-1/2 backdrop-blur-md bg-white/20 text-white text-center py-2 px-6 z-50 rounded-2xl">
-    <p class="text-l font-bold">© istoria.top - Toate drepturile rezervate  Alpha V2.0</p>
+<footer class="fixed bottom-4 left-1/2 -translate-x-1/2 backdrop-blur-md bg-white/20 text-white text-center py-2 px-5 z-50 rounded-2xl">
+    <p class="text-l font-bold whitespace-nowrap">© istoria.top - Toate drepturile rezervate  Alpha V2.0</p>
 </footer>
+
 

@@ -3,7 +3,7 @@
     import { page } from '$app/stores';
     import "/src/app.css";
     import { fade } from 'svelte/transition';
-    import Device from 'svelte-device-info';
+    import Device from 'svelte-device-info'; 
 
 
 //     onNavigate((navigation) => {
@@ -39,7 +39,7 @@
                 <div class="absolute left-0 top-full w-full h-10 group-hover:block"></div>
 
                 <!-- Lectii dropdown button -->
-                <a href="." class="hover:text-blue-800 flex items-center z-10 relative" class:active={$page.url.pathname.startsWith('/classes')}>
+                <a class="hover:text-blue-800 flex items-center z-10 relative" class:active={$page.url.pathname.startsWith('/classes')}>
                     Lectii
                     <!-- Dropdown arrow icon -->
                     <svg class="ml-2 w-4 h-4" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor">

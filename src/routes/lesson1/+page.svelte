@@ -12,9 +12,9 @@
 </div>
 
 <style>
-    *{
+    /* *{
         border : 1px solid red;
-    }
+    } */
     /* #vulture {
         min-width : 5rem;
     }

@@ -49,7 +49,7 @@
                 <ul class="absolute hidden group-hover:block bg-white/30 backdrop-blur-sm text-white rounded-2xl shadow-lg mt-4 -ml-2.5 space-y-2 p-4 min-w-max z-50">
                     <li><a href="/lesson1" class="hover:text-blue-800" class:active={$page.url.pathname === '/lesson1'}>Constituirea UE</a></li>
                     <li><a href="/lesson2" class="hover:text-blue-800" class:active={$page.url.pathname === '/lesson2'}>Institutiile UE</a></li>
-                    <!-- <li><a href="/lesson3" class="hover:text-blue-800" class:active={$page.url.pathname === '/lesson3'}>*contd*</a></li> -->
+                    <li><a href="/lesson3" class="hover:text-blue-800" class:active={$page.url.pathname === '/lesson3'}>Europa contemporană</a></li>
                 </ul>
             </li>
 

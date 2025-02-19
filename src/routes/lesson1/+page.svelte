@@ -268,7 +268,7 @@
           <div class="grid gap-4 mb-8">
             {#each quizQuestions[currentQuestionIndex].options as option, index (index)}
               <button
-                class="option-btn relative p-4 text-left rounded-xl transition-all"
+                class="option-btn text-outline relative p-4 text-left rounded-xl transition-all"
                 class:correct={selectedAnswer !== null && index === quizQuestions[currentQuestionIndex].correctAnswer}
                 class:incorrect={selectedAnswer === index && index !== quizQuestions[currentQuestionIndex].correctAnswer}
                 on:click={() => handleAnswer(index)}

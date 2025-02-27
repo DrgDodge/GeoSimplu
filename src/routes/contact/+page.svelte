@@ -9,7 +9,7 @@
             Toate drepturile site-ului sunt rezervate exclusiv pentru acesta în sine și nu se extind asupra informațiilor, conținutului sau datelor furnizate de acesta.
         </p>
     </div>
-    <img src="/images/Logo.png" alt="vulture" class="w-1/4 h-auto ml-5 my-auto">
+    <img src="https://cdn.discordapp.com/attachments/1146465913529454704/1344737029782765579/thumbnail.png?ex=67c1ff73&is=67c0adf3&hm=06739596eb0ee94b27112ca04da5e5fef798668d31e3c747228d96965536396f&" alt="vulture" class="w-1/4 h-auto ml-5 my-auto">
 </div>
 
 <script>

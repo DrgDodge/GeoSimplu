@@ -1,53 +1,53 @@
 <script>
   import "/src/app.css";
 
-  export let title = "Constituirea Uniunii Europene – O Călătorie Istorică";
+  export let title = "Presiunea Umană și Hazardurile Antropice";
 
   export let sections = [
     {
-      content: "Introducere: Uniunea Europeană (UE) este o organizație supranațională formată din 27 de state membre, rezultatul unui proces complex de integrare care a transformat Europa. Totul a început la 9 mai 1950, când Declarația Schuman a propus unirea industriilor de cărbune și oțel pentru a asigura pacea pe continent.",
-      imageUrl: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkl74KUqCvQtDgLRXjvYuTSoz5B-Tbhc4BNg&s",
-      imageAlt: "Harta Europei cu steagul UE"
+      content: "Introducere: Hazardurile antropice sunt evenimente accidentale cauzate de activități umane sau procese tehnologice. Acestea au impact major asupra mediului și societății, fiind rezultatul exploatării intensive a resurselor și industrializării.",
+      imageUrl: "https://stratos.ro/wp-content/uploads/2021/09/Impactul-industriei-asupra-mediului-cum-poate-fi-controlat.jpg",
+      imageAlt: "Poluare industrială"
     },
     {
-      content: "Declarația Schuman (1950): La 9 mai 1950, ministrul francez al afacerilor externe, Robert Schuman, a prezentat un plan istoric de cooperare europeană, propunând plasarea producției de cărbune și oțel sub o autoritate comună, prevenind astfel conflictele viitoare.",
-      imageUrl: "https://danutm.wordpress.com/wp-content/uploads/2015/01/schuman-declaration.jpg",
-      imageAlt: "Portret istoric"
+      content: "Exploatarea resurselor: Procesul de exploatare include cercetarea, extragerea, crearea infrastructurii și generarea de deșeuri. Acest ciclu duce la modificări profunde ale peisajului natural și dezechilibre ecologice.",
+      imageUrl: "https://storage0.dms.mpinteractiv.ro/media/401/781/10368/9359415/21/mina10.jpg",
+      imageAlt: "Exploatare minieră"
     },
     {
-      content: "Tratatul de la Paris (1951) – Nașterea CECO: Pe 18 aprilie 1951, Franța, Germania de Vest, Italia, Belgia, Olanda și Luxemburg au semnat Tratatul de la Paris, înființând Comunitatea Europeană a Cărbunelui și Oțelului (CECO). Acest tratat a eliminat tarifele vamale și a pus bazele instituțiilor comune pentru gestionarea producției esențiale.",
-      imageUrl: "https://www.cvce.eu/content/publication/1998/11/25/750bf92b-df2f-405c-ab1e-3b4f67129bc9/publishable.jpg",
-      imageAlt: "Semnarea unui tratat"
+      content: "Poluarea industrială: Industria siderurgică, chimică și energetică emit noxe care afectează aerul, apa și solul. Termocentralele sunt surse majore de CO2, contribuind la încălzirea globală.",
+      imageUrl: "https://thumbs.dreamstime.com/b/fum-dintr-un-afluent-industrial-aprins%C4%83-de-centrul-floridei-turb%C4%83rii-la-stivele-unei-centrale-electrice-pe-baz%C4%83-c%C4%83rbune-28862241.jpg",
+      imageAlt: "Fum industrial"
     },
     {
-      content: "Tratatul de la Roma (1957) – Formarea CEE: La 25 martie 1957, cele șase țări fondatoare au semnat Tratatele de la Roma, creând Comunitatea Economică Europeană (CEE) și Euratom. CEE a instaurat cele patru libertăți fundamentale: circulația persoanelor, mărfurilor, capitalurilor și serviciilor.",
-      imageUrl: "https://dinculise.com/wp-content/uploads/2024/02/tratatul-de-la-roma-1957.jpeg",
-      imageAlt: "Semnarea Tratatelor de la Roma"
+      content: "Accidente petroliere: Deversările din petroliere (Exxon Valdez, 1989) sau platforme offshore cauzează dezastre ecologice pe termen lung. Un litru de petrol poate contamina 1 milion de litri de apă.",
+      imageUrl: "https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA4dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMjQl/MkYwMiUyRjEzJTJGMTkwMjcyNF8xOTAy/NzI0X2RldmVyc2FyZS1wZXRyb2wtdHJp/bmlkYWQtdG9iYWdvLmpwZyZ3PTc4MCZo/PTQ0MCZoYXNoPTA0YjE0MTgzMmNmYjBmOTgxNWRiYTE5OWE2NmRjNDQy.thumb.jpg",
+      imageAlt: "Deversare petrolieră"
     },
     {
-      content: "Dezvoltarea și Extinderea Comunității Europene: De-a lungul decadelor, comunitatea a cunoscut multiple extinderi, incluzând aderările din 1973, 1981, 1986, 1995, 2004, 2007 și 2013. Aceste extinderi au consolidat piața unică și au promovat stabilitatea pe continent.",
-      imageUrl: "https://upload.wikimedia.org/wikipedia/commons/e/ed/Enlargement_of_the_European_Union_77.gif",
-      imageAlt: "Hartă a extinderii UE"
+      content: "Hazarduri nucleare: Accidentul de la Cernobîl (1986) a eliberat radiații echivalente cu 400 de bombe atomice. Zona de excludere rămâne inabitabilă timp de mii de ani.",
+      imageUrl: "https://www.descopera.ro/wp-content/uploads/2024/11/cernobil-zona-excludere-shutter_Descopera-scaled.jpg",
+      imageAlt: "Zona Cernobîl"
     },
     {
-      content: "Tratatul de la Maastricht (1992) – Nașterea Uniunii Europene: Semnat în 1992 și intrat în vigoare în 1993, Tratatul de la Maastricht a transformat Comunitatea Economică Europeană în Uniunea Europeană. Acesta a extins cooperarea în domenii precum politica externă și de securitate și a stabilit criteriile pentru adoptarea monedei unice.",
-      imageUrl: "https://www.caleaeuropeana.ro/wp-content/uploads/2018/02/semnarea-tratatului-de-la-maastricht.jpg",
-      imageAlt: "Tratatele de la Maastricht"
+      content: "Urbanizarea: Extinderea orașelor duce la artificializarea solului, poluare fonnică și generarea de deșeuri menajere. 60% din emisiile globale de CO2 provin din zone urbane.",
+      imageUrl: "https://img.rockwool.com/https%3A%2F%2Fbrandcommunity.rockwool.com%2Fasset%2FGH31DmIaRwE07w17OjyWuw?ar=16%3A9&fit=crop&w=1120&rect=0.0000%2C0.077177%2C4000%2C2250&auto=format&s=afacc8cf3a0c8c0a4e23c0da2a32a939",
+      imageAlt: "Urbanizare intensă"
     },
     {
-      content: "Introducerea Monedei Euro (1999-2002): În 1999, moneda unică euro a fost introdusă pentru tranzacții electronice, iar în 2002 au fost puse în circulație bancnotele și monedele euro, facilitând comerțul și integrarea economică.",
-      imageUrl: "https://media.evz.ro/wp-content/uploads/2023/06/euro-digital.jpg",
-      imageAlt: "Monede și bancnote euro"
+      content: "Deșertificarea: Agricultura nesustenabilă și defrișările intensive accelerează degradarea solului. Peste 40% din suprafața terestră este afectată de aridizare.",
+      imageUrl: "https://kaputt-sekuro.ro/wp-content/uploads/2025/01/desertificarea.jpeg",
+      imageAlt: "Proces de deșertificare"
     },
     {
-      content: "Acordurile Schengen (1995) și Libertatea de Mișcare: Implementate în 1995, Acordurile Schengen au eliminat controalele la frontierele interne, permițând cetățenilor UE să se deplaseze liber în spațiul Schengen.",
-      imageUrl: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Schengen_Agreement_%281985%29_signatures.jpg/250px-Schengen_Agreement_%281985%29_signatures.jpg",
-      imageAlt: "Frontieră deschisă"
+      content: "Transporturi periculoase: Accidentele rutiere sau feroviare cu substanțe toxice (ex: deraieri de trenuri chimice) creează zone de contaminare cu efecte asupra sănătății umane.",
+      imageUrl: "https://hotnews.ro/wp-content/uploads/2024/04/image-2023-03-1-26115233-41-accident-feroviar-grecia-2.jpg",
+      imageAlt: "Accident feroviar"
     },
     {
-      content: "Concluzie: Constituirea Uniunii Europene este o poveste de integrare, cooperare și solidaritate, care a dus la crearea unui spațiu de pace și prosperitate pe continent.",
-      imageUrl: "https://cdn.economedia.ro/wp-content/uploads/2024/06/dreamstime_xl_61190226.webp",
-      imageAlt: "Diversitate și unitate europeană"
+      content: "Prevenire și management: Implementarea tehnologiilor verzi, sisteme de alarmă timpurie și educarea populației reduc riscurile. Reciclarea 80% din deșeuri industriale poate diminua impactul.",
+      imageUrl: "https://marathonepr.ro/wp-content/uploads/2022/11/simbolurilereciclarii_01.webp",
+      imageAlt: "Simbol reciclare"
     }
   ];
 
@@ -63,83 +63,83 @@
 
   const quizQuestions = [
     {
-      question: "Care eveniment este considerat punctul de start al Uniunii Europene?",
+      question: "Care este principalul factor al hazardurilor antropice?",
       options: [
-        "Tratatul de la Roma",
-        "Declarația Schuman", 
-        "Tratatul de la Maastricht",
-        "Acordurile Schengen"
+        "Fenomene naturale",
+        "Activități umane",
+        "Schimbări climatice",
+        "Erupții vulcanice"
       ],
       correctAnswer: 1,
-      explanation: "Declarația Schuman din 9 mai 1950 a propus crearea Comunității Europene a Cărbunelui și Oțelului, marcând începutul procesului de integrare europeană."
+      explanation: "Hazardurile antropice sunt cauzate direct de activități umane și procese tehnologice."
     },
     {
-      question: "Câte state fondatoare au semnat Tratatul de la Paris în 1951?",
-      options: ["4", "6", "8", "10"],
-      correctAnswer: 1,
-      explanation: "Țările fondatoare au fost Franța, Germania de Vest, Italia, Belgia, Olanda și Luxemburg - total 6 state."
-    },
-    {
-      question: "Care dintre acestea a fost principalul obiectiv al CECO?",
+      question: "Care a fost cel mai grav accident nuclear?",
       options: [
-        "Crearea unei monede unice",
-        "Controlul comun al producției de cărbune și oțel",
-        "Eliminarea frontierelor",
-        "Cooperarea militară"
-      ],
-      correctAnswer: 1,
-      explanation: "CECO a avut ca scop gestionarea comună a resurselor strategice de cărbune și oțel pentru a preveni conflictele."
-    },
-    {
-      question: "Ce au instituit Tratatele de la Roma din 1957?",
-      options: [
-        "Uniunea Monetară Europeană",
-        "CEE și Euratom",
-        "Politica Agricolă Comună",
-        "Spațiul Schengen"
-      ],
-      correctAnswer: 1,
-      explanation: "Tratatele de la Roma au înființat Comunitatea Economică Europeană (CEE) și Comunitatea Europeană a Energiei Atomice (Euratom)."
-    },
-    {
-      question: "Care tratat a creat oficial Uniunea Europeană?",
-      options: [
-        "Tratatul de la Paris",
-        "Tratatul de la Roma",
-        "Tratatul de la Maastricht",
-        "Tratatul de la Lisabona"
+        "Fukushima (2011)",
+        "Three Mile Island (1979)",
+        "Cernobîl (1986)",
+        "Windscale (1957)"
       ],
       correctAnswer: 2,
-      explanation: "Tratatul de la Maastricht din 1992 a transformat Comunitatea Europeană în Uniunea Europeană."
+      explanation: "Accidentul de la Cernobîl a eliberat cea mai mare cantitate de material radioactiv din istorie."
     },
     {
-      question: "Când a fost introdus euro ca monedă fizică?",
-      options: ["1999", "2001", "2002", "2005"],
-      correctAnswer: 2,
-      explanation: "Euro a fost introdus pentru tranzacții electronice în 1999, iar bancnotele și monedele au apărut în 2002."
-    },
-    {
-      question: "Ce permite Acordul Schengen?",
+      question: "Ce provoacă deșertificarea?",
       options: [
-        "Monedă unică",
-        "Circulație liberă fără controale la frontiere",
-        "Politică externă comună",
-        "Taxe vamale comune"
+        "Precipitații excesive",
+        "Agricultura intensivă",
+        "Reforestare",
+        "Energia eoliană"
       ],
       correctAnswer: 1,
-      explanation: "Acordurile Schengen au eliminat controalele sistematice la frontierele interne."
+      explanation: "Practicile agricole nesustenabile și defrișările sunt cauze primare ale deșertificării."
     },
     {
-      question: "Care a fost primul val major de extindere a UE?",
-      options: ["1973", "1981", "2004", "2007"],
-      correctAnswer: 2,
-      explanation: "Extinderea din 2004 a adus 10 noi state membre, majoritatea din Europa Centrală și de Est."
+      question: "Câți litri de apă contaminează 1 litru de petrol?",
+      options: ["1.000", "10.000", "100.000", "1.000.000"],
+      correctAnswer: 3,
+      explanation: "Un singur litru de petrol poate face 1 milion de litri de apă nepotabilă."
     },
     {
-      question: "Câte state membre are UE în 2024?",
-      options: ["25", "27", "29", "31"],
+      question: "Ce procent din CO2 provine din zone urbane?",
+      options: ["30%", "60%", "45%", "75%"],
       correctAnswer: 1,
-      explanation: "După Brexit (ieșirea Regatului Unit), UE are 27 de state membre."
+      explanation: "Urbanizarea intensă și consumul de energie în orașe contribuie cu 60% la emisiile globale."
+    },
+    {
+      question: "Care NU este hazard antropic?",
+      options: [
+        "Deversare petrolieră",
+        "Poluare radioactivă",
+        "Alunecare de teren",
+        "Explozie industrială"
+      ],
+      correctAnswer: 2,
+      explanation: "Alunecările de teren sunt hazard natural, nelegat de activitatea umană."
+    },
+    {
+      question: "Când a avut loc accidentul Exxon Valdez?",
+      options: ["1979", "1989", "1999", "2009"],
+      correctAnswer: 1,
+      explanation: "Nava Exxon Valdez a deversat peste 40 de milioane de litri de petrol în 1989 în Alaska."
+    },
+    {
+      question: "Ce măsură previne hazardurile antropice?",
+      options: [
+        "Extinderea industrială",
+        "Sisteme de alarmă timpurie",
+        "Creșterea consumului",
+        "Exploatare intensivă"
+      ],
+      correctAnswer: 1,
+      explanation: "Sistemele de monitorizare și alarmă reduc impactul accidentelor tehnologice."
+    },
+    {
+      question: "Ce procent din sol este afectat de deșertificare?",
+      options: ["10%", "25%", "40%", "60%"],
+      correctAnswer: 2,
+      explanation: "Peste 40% din suprafața terestră este afectată de procese de aridizare și degradare a solului."
     }
   ];
 
@@ -245,7 +245,6 @@
     {/if}
 
     {#if (currentGroupIndex + 1) * itemsPerPage >= sections.length && !showQuiz}
-      <!-- Butonul de chestionar plasat fix, în dreapta mijloc -->
       <button
         on:click={startQuiz}
         class="fixed right-8 top-1/2 -translate-y-1/2 bg-white/30 rounded-full p-2 hover:bg-white/50 transition-colors quiz-arrow-button animate-arrow"
@@ -306,9 +305,9 @@
           <div class="text-5xl text-white text-outline font-bold mb-8">{score}/9</div>
           <p class="text-xl text-white text-outline mb-8">
             {#if score === 9}
-              Performanță remarcabilă! Ai o cunoaștere excelentă a istoriei UE!
+              Performanță remarcabilă! Ai o înțelegere profundă a hazardurilor antropice!
             {:else if score >= 6}
-              Rezultat foarte bun! Continuă să explorezi tema!
+              Rezultat foarte bun! Cunoști esențialul despre impactul uman!
             {:else}
               Bun început! Recomandăm recitirea materialului pentru consolidare.
             {/if}

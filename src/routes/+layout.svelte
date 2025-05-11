@@ -47,9 +47,9 @@
                     </svg>
                 </a>
                 <ul class="absolute hidden group-hover:block bg-white/30 backdrop-blur-sm text-white rounded-2xl shadow-lg mt-4 -ml-2.5 space-y-2 p-4 min-w-max z-50">
-                    <li><a href="/lesson1" class="hover:text-blue-800" class:active={$page.url.pathname === '/lesson1'}>Constituirea UE</a></li>
-                    <li><a href="/lesson2" class="hover:text-blue-800" class:active={$page.url.pathname === '/lesson2'}>Institutiile UE</a></li>
-                    <li><a href="/lesson3" class="hover:text-blue-800" class:active={$page.url.pathname === '/lesson3'}>Europa contemporană</a></li>
+                    <li><a href="/lesson1" class="hover:text-blue-800" class:active={$page.url.pathname === '/lesson1'}>Presiunea Umană și Hazardurile Antropice</a></li>
+                    <li><a href="/lesson2" class="hover:text-blue-800" class:active={$page.url.pathname === '/lesson2'}>Hazarduri Naturale</a></li>
+                    <!-- <li><a href="/lesson3" class="hover:text-blue-800" class:active={$page.url.pathname === '/lesson3'}>Europa contemporană</a></li> -->
                 </ul>
             </li>
 
@@ -79,7 +79,7 @@
 
 
 <footer class="fixed bottom-4 left-1/2 -translate-x-1/2 backdrop-blur-md bg-white/20 text-white text-center py-2 px-5 z-50 rounded-2xl">
-    <p class="text-l font-bold whitespace-nowrap">© istoria.top - Toate drepturile rezervate  Alpha V2.0</p>
+    <p class="text-l font-bold whitespace-nowrap">© geosimplu.istoria.top - Toate drepturile rezervate  Alpha V2.0</p>
 </footer>
 
 
